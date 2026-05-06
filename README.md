@@ -19,8 +19,8 @@ Desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e
 ---
 
 ## 📊 Estatísticas
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=euclidespaim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=euclidespaim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=euclidespaim&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=euclidespaim&layout=compact&theme=radical)
 
 ---
 *Este perfil foi atualizado com a ajuda do Gemini CLI.*
