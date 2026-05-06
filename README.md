@@ -1,4 +1,4 @@
-# Olá, eu sou Euclides Paim! 👋
+# Olá, sou o Professor Euclides Paim! 👋
 
 ## 🚀 Sobre mim
 Desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e escaláveis. Atualmente explorando o ecossistema JavaScript/TypeScript e tecnologias Cloud.
