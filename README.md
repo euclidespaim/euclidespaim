@@ -6,7 +6,7 @@ Desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e
 - 🔭 Atualmente trabalhando em projetos com **React, Node.js e TypeScript**.
 - 🌱 Aprendendo mais sobre **Arquitetura de Software e Cloud Computing (AWS)**.
 - 💬 Pergunte-me sobre **JavaScript, Front-end ou Backend com Node**.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/euclidespaim/) (Ajuste o link se necessário)
+- 📫 Meu site pessoal: [euclidespaim.com](https://euclidespaim.com)
 
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,8 +19,8 @@ Desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e
 ---
 
 ## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=euclidespaim&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=euclidespaim&layout=compact&theme=radical)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=euclidespaim&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=euclidespaim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 *Este perfil foi atualizado com a ajuda do Gemini CLI.*
