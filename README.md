@@ -17,8 +17,3 @@ Desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e
 
 ---
 [![](https://komarev.com/ghpvc/?username=euclidespaim&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-*Este perfil foi atualizado com a ajuda do Gemini CLI.*
