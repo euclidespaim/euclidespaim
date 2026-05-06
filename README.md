@@ -7,7 +7,7 @@ Atualmente, atuo como **Professor** e desenvolvedor, compartilhando conhecimento
 
 ### 🛠️ Expertise Técnica
 - **Infraestrutura & Redes:** Experiência sólida como administrador de redes e servidores Linux/Windows. Especialista em redes sem fio (Wireless), sinais de rádio e infraestrutura Ubiquiti/Cisco.
-- **Virtualização & Cloud:** Domínio em tecnologias de Cloud Computing e virtualização como **AWS** e **XenServer**, além de orquestração de containers com **Docker**.
+- **Virtualização & Cloud:** Domínio em tecnologias de cloud computing e virtualização como **AWS** e **XenServer**, além de orquestração de containers com **Docker**.
 - **Desenvolvimento & Arquitetura:** Foco em **Node.js, TypeScript e React**, aplicando padrões de projeto (Design Patterns) e princípios SOLID para criar sistemas distribuídos e escaláveis.
 - **Hardware & IoT:** Entusiasta de sistemas embarcados, utilizando **Arduino** para projetos de automação e acessibilidade (Visão Computacional + Libras).
 
@@ -38,4 +38,3 @@ Atualmente, atuo como **Professor** e desenvolvedor, compartilhando conhecimento
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-*Este perfil foi atualizado com a ajuda do Gemini CLI.*
